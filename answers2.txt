@@ -1,0 +1,393 @@
+Question 1
+C) Streptococcus viridans (Correct Answer)
+Explanation: Streptococcus viridans is typically considered the primary causative agent of Infective Endocarditis in individuals without a history of intravenous drug use. These bacteria are part of the normal oral flora and can enter the bloodstream during dental procedures or daily activities, potentially colonizing damaged heart valves or endocardial surfaces.
+
+Question 2
+D) Intubation and mechanical ventilation (Correct Answer)
+Explanation: Intubation and mechanical ventilation significantly increase the risk of hospital-acquired pneumonia. The endotracheal tube bypasses natural defense mechanisms, allowing pathogens direct access to the lower respiratory tract. Additionally, prolonged immobility and the potential for aspiration contribute to this increased risk.
+
+Question 3
+D) Surgical intervention (Correct Answer)
+Explanation: If empyema remains unresolved with initial management, surgical intervention may be necessary. This can involve procedures such as video-assisted thoracoscopic surgery (VATS) or thoracotomy with decortication to remove infected fluid and fibrinous material, allowing lung reexpansion and resolution of the infection.
+
+Question 4
+D) Dyspnea and fatigue (Correct Answer)
+Explanation: Adult patients with a ventricular septal defect experiencing increased pulmonary blood flow are likely to experience dyspnea and fatigue. The left-to-right shunt leads to pulmonary overcirculation, causing increased work of breathing and reduced systemic cardiac output, resulting in these symptoms.
+
+Question 5
+B) Peripheral edema and jugular vein distension (Correct Answer)
+Explanation: Peripheral edema and jugular vein distension are the most indicative clinical signs of rightsided heart failure. These signs result from increased systemic venous pressure due to the right ventricle's inability to effectively pump blood into the pulmonary circulation, leading to fluid accumulation in peripheral tissues and distension of neck veins.
+
+Question 6D) Aortic stenosis (Correct Answer)
+Explanation: A systolic murmur radiating to the neck in a 55-year-old woman is highly suggestive of aortic stenosis. This murmur is typically harsh and crescendo-decrescendo in nature, heard best at the right upper sternal border and often radiates to the carotid arteries in the neck due to the proximity of the aortic valve to these vessels.
+
+Question 7
+A) Asymmetric septal hypertrophy (Correct Answer)
+Explanation: Asymmetric septal hypertrophy is the characteristic feature that distinguishes hypertrophic cardiomyopathy on an echocardiogram. This condition is defined by thickening of the interventricular septum that is disproportionate to the left ventricular free wall, often leading to left ventricular outflow tract obstruction.
+
+Question 8
+B) Light's criteria (Correct Answer)
+Explanation: Light's criteria is the most effective diagnostic method for differentiating between transudative and exudative pleural effusion. It involves measuring the protein and LDH levels in both the pleural fluid and serum, providing a reliable way to classify effusions based on their underlying cause.
+
+Question 9
+B) Suggests tuberculosis infection (Correct Answer)
+Explanation: For an HIV-positive individual with a CD4 count of 350 cells/ μ L, a 10 mm induration on tuberculin skin testing suggests tuberculosis infection. In HIV patients, a lower threshold (≥5 mm) is typically used for TB diagnosis, but with a CD4 count above 200 cells/ μ L, the 10 mm cutoff is still applicable.
+
+Question 10
+B) Increased dietary sodium intake (Correct Answer)
+Explanation: Increased dietary sodium intake is not recommended for managing hypertension. In fact, reducing sodium intake is a key lifestyle modification for hypertension management. Sodium retention leads to increased blood volume and consequently higher blood pressure, making sodium reduction crucial for blood pressure control.
+
+Question 11
+A) Loud holosystolic murmur at the left lower sternal border (Correct Answer)
+Explanation: A loud holosystolic murmur at the left lower sternal border is the most likely physical finding in a patient with a ventricular septal defect. This murmur results from blood shunting from the left to the right ventricle throughout systole due to the defect in the interventricular septum.
+
+Question 12
+C) Enhance walking distance and reduce symptoms (Correct Answer)
+Explanation: The primary goal of exercise therapy in managing claudication due to peripheral vascular disease is to enhance walking distance and reduce symptoms. Regular exercise promotes the development of collateral circulation, improves endothelial function, and enhances skeletal muscle metabolism, leading to increased pain-free walking distance and overall functional capacity. Question 13D) Sharp, pleuritic chest pain improving with sitting up and leaning forward (Correct Answer) Explanation: Sharp, pleuritic chest pain that improves with sitting up and leaning forward is the most characteristic symptom of acute pericarditis. This positional relief occurs because leaning forward reduces the stretch on the inflamed pericardium, alleviating pain.
+
+Question 14
+D) Prosthetic cardiac valve or prosthetic material used for cardiac valve repair (Correct Answer) 
+Explanation: A prosthetic cardiac valve or prosthetic material used for cardiac valve repair is considered a major risk factor for developing Infective Endocarditis. These foreign materials provide a surface for bacterial adherence and colonization, significantly increasing the risk of infection.
+
+Question 15
+C) Use of allergen-impermeable covers for pillows and mattresses (Correct Answer)
+Explanation: The use of allergen-impermeable covers for pillows and mattresses is an essential environmental control for patients with asthma triggered by dust mites. These covers create a barrier that prevents dust mites from colonizing bedding and reduces exposure to their allergens, which are a common trigger for asthma symptoms.
+
+Question 16
+B) Prevention of ventilator-induced lung injury (Correct Answer)
+Explanation: In ARDS management, preventing ventilator-induced lung injury is crucial. This involves using lung-protective ventilation strategies, such as low tidal volumes (6 ml/kg predicted body weight) and limiting plateau pressures (<30 cm H2O). These measures help prevent further damage to the already compromised lungs, reducing mortality and improving outcomes.
+
+Question 17
+C) Computed tomography pulmonary angiography (CTPA) (Correct Answer)
+Explanation: CTPA is considered the gold standard for diagnosing pulmonary embolism. It provides detailed images of the pulmonary arteries, allowing for direct visualization of emboli. CTPA is highly sensitive and specific, can be performed quickly, and provides information about alternative diagnoses if PE is not present.
+
+Question 18
+D) Atrial flutter (Correct Answer)
+Explanation: The description of a "sawtooth" pattern on the ECG with a heart rate of 110 bpm is characteristic of atrial flutter. This arrhythmia typically presents with a regular atrial rate of 300 bpm, often conducting to the ventricles at a 2:1 or 3:1 ratio, resulting in ventricular rates around 150 or 100 bpm, respectively.
+
+Question 19
+A) Idiopathic pulmonary fibrosis (Correct Answer)
+Explanation: The combination of dry cough, dyspnea, and HRCT findings of honeycombing and traction bronchiectasis strongly suggests idiopathic pulmonary fibrosis (IPF). These radiographic features are hallmarks of the usual interstitial pneumonia (UIP) pattern, which is characteristic of IPF.
+
+Question 20
+B) Restrictive cardiomyopathy (Correct Answer) 
+Explanation: Low voltage QRS complexes on ECG, combined with dyspnea on exertion in a 45-year-old man, suggest restrictive cardiomyopathy. This condition is characterized by stiff ventricular walls that restrict diastolic filling, leading to reduced QRS voltage due to decreased electrical conductivity through the fibrotic myocardium.
+
+Question 21
+D) Immediate initiation of chemotherapy combined with radiation therapy (Correct Answer)
+Explanation: For small cell lung cancer, which is highly aggressive but often responsive to chemotherapy, the best initial management is immediate initiation of chemotherapy combined with radiation therapy. This approach is preferred over surgery for most cases of SCLC due to its rapid growth and early metastatic potential.
+
+Question 22
+B) Hypertrophic cardiomyopathy (Correct Answer)
+Explanation: The echocardiogram findings of asymmetric septal hypertrophy and systolic anterior motion of the mitral valve are pathognomonic for hypertrophic cardiomyopathy. This genetic disorder is characterized by inappropriate myocardial hypertrophy, often most pronounced in the interventricular septum.
+
+Question 23
+A) Angiotensin-converting enzyme (ACE) inhibitors (Correct Answer)
+Explanation: In a patient with congestive heart failure experiencing worsening renal function, ACE inhibitors might need adjustment. While these drugs are beneficial in heart failure, they can cause a decline in renal function, especially in patients with pre-existing renal impairment or in the setting of volume depletion.
+
+Question 24
+D) Inhibition of vitamin K-dependent clotting factors (Correct Answer)
+Explanation: Warfarin's primary mechanism of action in treating pulmonary embolism is the inhibition of vitamin K-dependent clotting factors (II, VII, IX, and X). By interfering with the vitamin K cycle, warfarin reduces the production of these essential coagulation factors, thereby decreasing the body's ability to form new clots.
+
+Question 25
+A) Stable Angina (Correct Answer)
+Explanation: The description of chest pain that intensifies with physical activity and decreases with rest is characteristic of stable angina. This pattern reflects a fixed coronary artery obstruction that causes myocardial ischemia during increased oxygen demand (e.g., during exercise) but resolves with rest when oxygen demand decreases.
+
+Question 26
+A) Angiotensin-converting enzyme (ACE) (Correct Answer)
+Explanation: Serum angiotensin-converting enzyme (ACE) is commonly elevated in sarcoidosis due to granuloma formation. ACE is produced by epithelioid cells within sarcoid granulomas, leading to increased serum levels. This elevation correlates with granuloma burden and is used as a biomarker for disease activity and monitoring in sarcoidosis.
+
+Question 27
+D) Excessive daytime sleepiness (Correct Answer)
+Explanation: Excessive daytime sleepiness is a hallmark symptom of obstructive sleep apnea (OSA). This occurs due to fragmented sleep caused by repeated breathing interruptions during the night. While chronic snoring is also common in OSA, excessive daytime sleepiness is more specific and directly impacts quality of life, making it a key symptom for clinical suspicion.
+
+Question 28
+D) Chest X-ray (Correct Answer)
+Explanation: Chest X-ray is essential for confirming the diagnosis of Acute Respiratory Distress Syndrome (ARDS). The Berlin definition of ARDS requires bilateral opacities on chest imaging not fully explained by effusions, lung collapse, or nodules. While CT scans can provide more detailed information, chest X-rays are more readily available, less expensive, and sufficient for initial diagnosis in most cases.
+
+Question 29
+B) The Wells score (Correct Answer)
+Explanation: The Wells score is a commonly used clinical tool to stratify a patient's risk of having a pulmonary embolism (PE). It incorporates various clinical factors such as symptoms, risk factors, and the likelihood of alternative diagnoses. The score helps clinicians determine the need for further diagnostic testing, such as D-dimer or imaging studies, in patients suspected of having a PE.
+
+Question 30
+C) Emphysema (Correct Answer)
+Explanation: The most likely diagnosis for a 67-year-old smoker presenting with shortness of breath, a barrel-shaped chest, and diminished breath sounds is emphysema. These symptoms are classic for emphysema, a form of Chronic Obstructive Pulmonary Disease (COPD). The barrel-shaped chest results from air trapping and hyperinflation, while diminished breath sounds occur due to the destruction of alveolar walls and loss of elastic recoil in the lungs.
+ 
+Question 31
+D) Development of a secondary empyema (Correct Answer)
+Explanation: After chest tube placement for pleural effusion, persistent fever and chest pain suggest the development of a secondary empyema. Empyema is a complication where the pleural space becomes infected, often following invasive procedures like chest tube placement. The combination of fever and chest pain indicates ongoing inflammation and possible infection, making empyema the most likely diagnosis in this scenario.
+
+Question 32
+B) Atrial fibrillation (Correct Answer)
+Explanation: The ECG findings of irregular R-R intervals and absent P waves are characteristic of atrial fibrillation. In this arrhythmia, the atria quiver instead of contracting effectively, leading to the absence of P waves. The irregular ventricular response results in irregular R-R intervals. These ECG features, combined with the patient's symptoms of palpitations and fatigue, strongly suggest atrial fibrillation.
+
+Question 33
+B) Perform a computed tomography pulmonary angiography (CTPA) (Correct Answer)
+Explanation: For a 58-year-old woman with sudden onset dyspnea, pleuritic chest pain, and a positive Ddimer test, the next best step is to perform a computed tomography pulmonary angiography (CTPA). CTPA is the gold standard for diagnosing pulmonary embolism (PE). The combination of symptoms and a positive D-dimer increases the likelihood of PE, necessitating definitive imaging to confirm or rule out the diagnosis.
+
+Question 34
+B) Inhaled bronchodilators (Correct Answer)
+Explanation: Inhaled bronchodilators are the primary medication used to manage symptoms in patients with Chronic Obstructive Pulmonary Disease (COPD). These medications, which include beta-2 agonists and anticholinergics, work by relaxing airway smooth muscles, improving airflow, and reducing breathlessness. They are the cornerstone of COPD symptom management due to their effectiveness in providing quick relief and improving lung function.
+
+Question 35
+A) One hour (Correct Answer)
+Explanation: In hospital-acquired pneumonia, antibiotics should be initiated within one hour after diagnosis to reduce mortality. This rapid initiation of appropriate antibiotic therapy is crucial in  improving outcomes and reducing the risk of complications. Delaying antibiotic treatment can lead to increased morbidity and mortality, making the one-hour window a critical target in managing hospitalacquired pneumonia.
+
+Question 36
+C) Immediate evaluation for potential secondary causes (Correct Answer)
+Explanation: For a 63-year-old man with no prior history of hypertension presenting with a blood pressure of 180/110 mmHg and complaints of headache and dizziness, the best initial approach is immediate evaluation for potential secondary causes. This presentation suggests a hypertensive urgency or emergency, and the sudden onset in a previously normotensive individual raises suspicion for secondary hypertension. Identifying and treating the underlying cause is crucial for effective management.
+
+Question 37
+B) Pulmonary hypertension (Correct Answer)
+Explanation: Pulmonary hypertension is the complication most associated with a large, unrepaired atrial septal defect (ASD) in adults. The left-to-right shunt through the ASD leads to increased pulmonary blood flow over time. This chronic overload can cause remodeling of the pulmonary vasculature, resulting in pulmonary hypertension. If left untreated, it can progress to right ventricular failure and Eisenmenger syndrome.
+
+Question 38
+C) Myocardial Infarction (Correct Answer)
+Explanation: For a 65-year-old male patient presenting with chest pain radiating to the left arm, diaphoresis, and ST-segment elevation on ECG, the most likely diagnosis is Myocardial Infarction (MI). This combination of symptoms and ECG findings is highly specific for ST-elevation myocardial infarction (STEMI). The ST-segment elevation indicates acute coronary artery occlusion leading to myocardial ischemia and infarction.
+
+Question 39
+B) Isoniazid, rifampin, ethambutol, and pyrazinamide for 2 months, followed by isoniazid and rifampin for 4 months (Correct Answer)
+Explanation: The standard initial treatment regimen for active tuberculosis in a patient without any drug resistances is a 6-month course consisting of isoniazid, rifampin, ethambutol, and pyrazinamide for the first 2 months (intensive phase), followed by isoniazid and rifampin for 4 months (continuation phase). This regimen, known as HRZE, is recommended by the World Health Organization and is highly effective in treating drug-susceptible tuberculosis.
+
+Question 40
+D) Angiotensin-converting enzyme (ACE) (Correct Answer)
+Explanation: Angiotensin-converting enzyme (ACE) inhibitors are commonly used in the treatment of congestive heart failure to reduce both afterload and preload. ACE inhibitors block the conversion of angiotensin I to angiotensin II, resulting in vasodilation of both arteries and veins. This leads to reduced peripheral vascular resistance (afterload reduction) and decreased sodium and water retention (preload reduction), improving cardiac function and symptoms in heart failure patients.
+
+Question 41
+C) Echocardiogram (Correct Answer)
+Explanation: For a 58-year-old woman with a history of hypertension complaining of increasing shortness of breath and fatigue, the initial diagnostic test that should be performed is an echocardiogram. An echocardiogram can assess cardiac structure and function, including left ventricular hypertrophy, systolic and diastolic function, and valvular abnormalities. This non-invasive test is crucial in evaluating for potential heart failure, which can develop as a complication of long-standing hypertension.
+
+Question 42
+C) Medium-dose inhaled corticosteroid and long-acting beta-agonist combination (Correct Answer)
+Explanation: For a patient reporting frequent nighttime awakenings, daily use of rescue inhaler, and some activity limitation, the appropriate treatment step according to stepwise asthma management is a mediumdose inhaled corticosteroid and long-acting beta-agonist combination. This combination therapy provides both anti-inflammatory effects and long-acting bronchodilation, addressing persistent symptoms and nighttime awakenings that are not controlled with low-dose inhaled corticosteroids alone.
+
+Question 43
+C) Positive blood culture for typical organisms from two separate blood cultures (Correct Answer)
+Explanation: One of the major Duke criteria for diagnosing Infective Endocarditis is positive blood cultures for typical organisms from two separate blood cultures. This criterion is part of the microbiological evidence required for diagnosis. Typical organisms include Streptococcus viridans, Streptococcus bovis, HACEK group, Staphylococcus aureus, or community-acquired enterococci in the absence of a primary focus. This criterion helps establish the presence of a persistent bacteremia, which is characteristic of infective endocarditis.
+
+Question 44
+B) Systolic dysfunction due to impaired contractility (Correct Answer)
+Explanation: The primary mechanism of reduced ejection fraction in dilated cardiomyopathy related to congestive heart failure is systolic dysfunction due to impaired contractility. In dilated cardiomyopathy, the heart muscle becomes weakened and enlarged, leading to decreased force of contraction. This resultsin a reduced ability to pump blood effectively, manifesting as a lower ejection fraction. The impaired contractility is the fundamental issue in this form of heart failure.
+
+Question 45
+A) It indicates latent tuberculosis infection (Correct Answer)
+Explanation: A positive interferon-gamma release assay (IGRA) in a healthcare worker should be interpreted as indicating latent tuberculosis infection. IGRAs measure the immune response to specific Mycobacterium tuberculosis antigens. A positive result suggests that the individual has been exposed to TB and their immune system has mounted a response, but it does not differentiate between latent and active infection. In the absence of symptoms or radiographic evidence of active disease, a positive IGRA in a healthcare worker is most likely to represent latent TB infection.
+
+Question 46
+A) It generally leads to a reduction in both nocturnal and diurnal blood pressure (Correct Answer)
+Explanation: Effective CPAP therapy generally leads to a reduction in both nocturnal and diurnal blood pressure in patients with obstructive sleep apnea (OSA). OSA is associated with increased sympathetic activity and oxidative stress, which contribute to hypertension. CPAP therapy alleviates these effects by preventing airway collapse, reducing intermittent hypoxia, and normalizing sleep architecture. This results in improved blood pressure control both during sleep and waking hours.
+
+Question 47
+A) Less than 0.90 (Correct Answer)
+Explanation: In the ankle-brachial index (ABI) diagnostic tool used for peripheral artery disease (PAD), a value less than 0.90 indicates significant arterial insufficiency. The ABI is calculated by dividing the systolic blood pressure at the ankle by the systolic blood pressure in the arm. A value below 0.90 suggests reduced blood flow to the lower extremities, which is indicative of PAD. This cutoff has been established as a reliable indicator of clinically significant arterial obstruction.
+
+Question 48
+C) Intravenous vancomycin and gentamicin (Correct Answer)
+Explanation: For a 65-year-old male with a history of aortic valve replacement presenting with fever, a new heart murmur, and echocardiography showing vegetations on the valve, the initial antibiotic therapy should be intravenous vancomycin and gentamicin. This combination is recommended for prosthetic valve endocarditis, as it covers both methicillin-resistant Staphylococcus aureus (MRSA) and other common pathogens. Vancomycin is effective against gram-positive bacteria, including MRSA, while gentamicin provides synergistic coverage and is effective against gram-negative organisms.
+
+Question 49
+A) Antiplatelet therapy (Correct Answer)
+Explanation: Antiplatelet therapy is commonly included in the initial treatment for unstable angina to prevent further clot formation. Antiplatelet agents, such as aspirin and P2Y12 inhibitors (e.g., clopidogrel), inhibit platelet aggregation and reduce the risk of thrombus formation in the coronary arteries. This therapy is crucial in preventing the progression of unstable angina to myocardial infarction and is a cornerstone of acute coronary syndrome management.
+
+Question 50
+A) Combined chemotherapy and radiation therapy (Correct Answer)
+Explanation: For a patient diagnosed with stage IIIA non-small cell lung cancer, the treatment approach likely to be considered is combined chemotherapy and radiation therapy. This approach, known as chemoradiation, is standard for locally advanced (stage III) NSCLC. It offers the potential for curative intent by addressing both local tumor control (with radiation) and systemic disease control (with chemotherapy). This multimodal approach has shown improved survival outcomes compared to either modality alone in stage IIIA NSCLC.
+
+Question 51
+C) Blood cultures (Correct Answer)
+Explanation: Blood cultures are crucial for assessing hospital-acquired pneumonia because they help identify the specific pathogen causing the infection. This is particularly important in hospital settings where antibiotic-resistant organisms are more common. Blood cultures can guide targeted antibiotic therapy, improving treatment outcomes and reducing the risk of antibiotic resistance. While chest CT and other tests may be useful, blood cultures provide direct evidence of the causative organism, which is essential for proper management of hospital-acquired pneumonia.
+
+Question 52
+C) Azithromycin or doxycycline (Correct Answer)
+Explanation: For a previously healthy adult with community-acquired pneumonia and no recent antibiotic use, azithromycin or doxycycline is typically recommended as first-line treatment. These antibiotics are effective against common causative organisms like Streptococcus pneumoniae and atypical pathogens such as Mycoplasma pneumoniae. They offer good coverage, have convenient dosing schedules, and are generally well-tolerated. This approach aligns with guidelines for empiric treatment of communityacquired pneumonia in outpatient settings, balancing efficacy and the risk of antibiotic resistance.
+
+Question 53
+A) Cilostazol (Correct Answer)
+Explanation: Cilostazol is considered the primary pharmacological treatment for managing claudication in patients with peripheral vascular disease. It works by inhibiting phosphodiesterase type 3, which leads to vasodilation and inhibition of platelet aggregation. Cilostazol has been shown to significantly improve walking distance in patients with claudication. While aspirin and statins are important in managing cardiovascular risk in these patients, they are not specifically targeted at improving claudication symptoms. Warfarin is typically not used for this condition unless there are other indications.
+
+Question 54
+D) Four to six weeks (Correct Answer)
+Explanation: According to stepwise asthma management guidelines, treatment intensity should be increased if control is not achieved after four to six weeks. This timeframe allows for an adequate assessment of the current treatment's effectiveness while not prolonging ineffective therapy. It strikes a balance between giving the treatment enough time to work and responding promptly to inadequate control. Regular reassessment at this interval ensures that patients receive appropriate care and that their asthma management is optimized in a timely manner.
+
+Question 55
+B) D-dimer test (Correct Answer)
+Explanation: For patients with a low probability of pulmonary embolism (PE), the D-dimer test is the preferred initial diagnostic test. D-dimer is a fibrin degradation product that is elevated in the presence ofblood clots. In low-risk patients, a negative D-dimer test can effectively rule out PE, avoiding the need for more invasive or radiation-exposing tests. It's highly sensitive but not specific, making it an excellent initial screening tool. If the D-dimer is positive, further imaging studies like CT pulmonary angiography would then be warranted.
+
+Question 56
+C) Spirometry with bronchodilator reversibility testing (Correct Answer)
+Explanation: Spirometry with bronchodilator reversibility testing is the most effective test for confirming an asthma diagnosis in a patient with suspected exercise-induced bronchoconstriction. This test measures lung function before and after administering a bronchodilator, demonstrating the reversibility of airway obstruction characteristic of asthma. It provides objective evidence of airflow limitation and its reversibility, which are key diagnostic criteria for asthma. While other tests like methacholine challenge can be useful, spirometry with bronchodilator testing is more specific and is the standard first-line diagnostic tool for asthma.
+
+Question 57
+A) Three months (Correct Answer)
+Explanation: To be considered a common symptom of chronic bronchitis, a productive cough must persist for at least three months in two consecutive years. This definition, known as the "chronic bronchitis" component of COPD, helps distinguish chronic bronchitis from acute respiratory infections or other temporary conditions. The three-month duration in consecutive years indicates the chronic nature of the condition and is part of the clinical criteria used to diagnose chronic bronchitis as a component of COPD.
+
+Question 58
+A) 130/80 mmHg (Correct Answer)
+Explanation: For a 54-year-old woman with type 2 diabetes, the threshold for starting pharmacological treatment for hypertension is 130/80 mmHg. This lower threshold is recommended for patients with diabetes due to their increased cardiovascular risk. The American Diabetes Association and American Heart Association guidelines suggest more aggressive blood pressure control in diabetic patients to reduce the risk of cardiovascular events and diabetic nephropathy. Therefore, even though her current reading is 140/90 mmHg, the treatment threshold is lower at 130/80 mmHg.
+
+Question 59
+B) Obstructive sleep apnea (Correct Answer)
+Explanation: The symptoms described - frequent morning headaches, daytime fatigue, and observed breathing cessation during sleep - are classic signs of obstructive sleep apnea (OSA). OSA is characterized by repeated episodes of upper airway collapse during sleep, leading to intermittent hypoxia and sleep fragmentation. This results in poor sleep quality, causing morning headaches and daytime fatigue. The observed breathing cessation is a key diagnostic feature of OSA. While central sleep apnea, depression, and hypothyroidism can cause some similar symptoms, the combination presented, especially with observed apneas, is most indicative of OSA.
+
+Question 60
+A) Mitral valve repair (Correct Answer)
+Explanation: Mitral valve repair is typically the preferred surgical intervention for symptomatic severe mitral regurgitation. This approach preserves the patient's native valve tissue and structure, which often results in better long-term outcomes compared to valve replacement. Mitral valve repair is associatedwith improved left ventricular function, lower risk of endocarditis, and reduced need for long-term anticoagulation. It also typically offers better long-term survival rates compared to mitral valve replacement. When feasible, repair is favored over replacement, especially in primary (degenerative) mitral regurgitation.
+
+Question 61
+A) Swinging motion of the heart within the effusive fluid (Correct Answer) Explanation: Echocardiography in patients with pericardial effusion typically reveals a swinging motion of the heart within the effusive fluid, a phenomenon known as "swinging heart." This occurs due to the accumulation of fluid in the pericardial space, which allows the heart to move more freely within the pericardial sac. This finding is characteristic of pericardial effusion and helps in its diagnosis and assessment of severity. The other options are not specific to pericardial effusion or are less commonly seen in this condition.
+
+Question 62
+C) Polysomnography (Correct Answer)
+Explanation: Polysomnography is considered the gold standard for diagnosing obstructive sleep apnea (OSA). This comprehensive sleep study records multiple physiological parameters during sleep, including brain activity (EEG), eye movements (EOG), muscle activity (EMG), heart rhythm (ECG), breathing patterns, and blood oxygen levels. It provides detailed information about sleep stages, respiratory events, and their impact on sleep quality and oxygenation. While other tests like overnight oximetry or home sleep apnea testing can be useful screening tools, they lack the comprehensive data provided by polysomnography, which is essential for a definitive diagnosis and assessment of OSA severity.
+
+Question 63
+D) Echocardiogram (Correct Answer)
+Explanation: For a 34-year-old female with a history of patent ductus arteriosus (PDA) experiencing exercise intolerance and palpitations, an echocardiogram is the most indicative diagnostic tool. Echocardiography can directly visualize the PDA, assess its size and blood flow patterns, and evaluate its hemodynamic impact on the heart. It can also detect any associated cardiac abnormalities or complications, such as pulmonary hypertension or left ventricular volume overload, which might explain the patient's symptoms. While other tests like stress tests or chest X-rays can provide useful information, the echocardiogram offers the most comprehensive and direct assessment of the cardiac anatomy and function in this case.
+
+Question 64
+C) To kill fast-growing cancer cells and reduce tumor size (Correct Answer)
+Explanation: The main objective of using chemotherapy in treating small cell lung cancer (SCLC) is to kill fast-growing cancer cells and reduce tumor size. SCLC is characterized by its rapid growth and early spread, making it particularly responsive to chemotherapy. Chemotherapeutic agents target rapidly dividing cells, which is a hallmark of SCLC. By killing these fast-growing cancer cells, chemotherapy aims to shrink tumors, slow disease progression, and potentially improve survival. While chemotherapy can also provide palliative benefits and may indirectly enhance immune system function, its primary goal in SCLC treatment is direct cytotoxic effects on cancer cells.
+
+Question 65
+C) Blood pressure measurement on two separate occasions (Correct Answer)
+Explanation: The recommended initial diagnostic approach for evaluating a new case of hypertension is blood pressure measurement on two separate occasions. This approach helps to confirm that the elevated blood pressure is persistent and not just a temporary fluctuation due to factors like stress or "white coat hypertension." Guidelines typically recommend at least two separate office visits for blood pressure measurements, ideally taken at different times of day. This method ensures a more accurate diagnosis of hypertension before initiating further testing or treatment. While other tests like kidney function tests or 24-hour monitoring can be valuable, they are usually considered after confirming persistent elevation of blood pressure through repeated measurements.
+
+Question 66
+A) Viral upper respiratory infections (Correct Answer)
+Explanation: Viral upper respiratory infections are the most common trigger for asthma exacerbations in children. These infections, particularly those caused by rhinoviruses, can lead to increased airway inflammation and hyperreactivity, resulting in asthma symptoms such as wheezing, coughing, and difficulty breathing. Children with asthma are particularly sensitive to these viral infections, which can exacerbate their underlying condition and lead to more severe asthma attacks.
+
+Question 67
+B) Sarcoidosis (Correct Answer)
+Explanation: In a 34-year-old presenting with bilateral hilar lymphadenopathy and erythema nodosum, sarcoidosis should be suspected. This granulomatous disease often presents with these two findings together, known as Löfgren's syndrome. Erythema nodosum is a skin manifestation that can occur in response to sarcoidosis and is characterized by painful, red nodules on the lower extremities. Bilateral hilar lymphadenopathy is a classic radiographic finding in sarcoidosis, making it the most likely diagnosis in this case.
+
+Question 68
+C) It maintains an open airway during sleep (Correct Answer)
+Explanation: Continuous positive airway pressure (CPAP) is effective in treating obstructive sleep apnea because it maintains an open airway during sleep. The CPAP machine delivers a continuous stream of air that keeps the upper airway passages open, preventing the collapse that leads to apneas and hypopneas. This mechanism alleviates the symptoms of obstructive sleep apnea, such as snoring and daytime fatigue, by ensuring proper airflow throughout the night.
+
+Question 69
+B) Intermittent claudication (Correct Answer)
+Explanation: The characteristic symptom of peripheral arterial disease (PAD) that occurs with exertion and resolves with rest is known as intermittent claudication. This condition arises due to insufficient blood flow to the muscles during physical activity, leading to pain or cramping in the legs or buttocks. The pain typically subsides with rest as blood flow is restored, distinguishing it from other forms of leg pain that may not resolve with rest.
+
+Question 70
+B) Dyspnea on exertion (Correct Answer)
+Explanation: An adult with an undiagnosed atrial septal defect may commonly experience dyspnea onexertion. This symptom arises due to increased blood flow to the right side of the heart and lungs because of the left-to-right shunt created by the defect. Over time, this can lead to pulmonary congestion and reduced exercise capacity as the heart struggles to accommodate the increased volume load.
+
+Question 71
+B) Increased ventricular chamber size (Correct Answer)
+Explanation: A characteristic finding in dilated cardiomyopathy on echocardiogram is increased ventricular chamber size. This condition is defined by dilation of the heart chambers, particularly the left ventricle, which leads to impaired systolic function. The enlargement of the chambers results from various factors such as myocardial damage or ischemia, leading to decreased contractility and heart failure symptoms.
+
+Question 72
+B) Bilateral hilar lymphadenopathy often without parenchymal involvement (Correct Answer)
+Explanation: The typical presentation of sarcoidosis on a chest X-ray includes bilateral hilar lymphadenopathy often without parenchymal involvement. This finding is a hallmark of sarcoidosis and can be seen in many patients diagnosed with this condition. While parenchymal involvement can occur later or in more advanced cases, initial presentations frequently show only enlarged lymph nodes at the hilum.
+
+Question 73
+D) Transthoracic echocardiogram (Correct Answer)
+Explanation: The transthoracic echocardiogram is essential for evaluating the severity of mitral regurgitation. It provides real-time imaging of heart structures and function, allowing assessment of regurgitant flow and its impact on cardiac chambers. This non-invasive test helps determine the severity of regurgitation based on parameters such as chamber size changes and Doppler measurements of flow across the mitral valve.
+
+Question 74
+D) Decreased FEV1/FVC ratio below 0.70 after bronchodilator use (Correct Answer)
+Explanation: The pulmonary function test finding most indicative of COPD is a decreased FEV1/FVC ratio below 0.70 after bronchodilator use. This indicates airflow obstruction characteristic of COPD. The FEV1 (forced expiratory volume in one second) decreases disproportionately compared to FVC (forced vital capacity), confirming a diagnosis of obstructive lung disease.
+
+Question 75
+C) Dyspnea on exertion (Correct Answer)
+Explanation: The most common symptom of severe aortic stenosis is dyspnea on exertion. As the aortic valve narrows, it restricts blood flow from the heart during physical activity, leading to symptoms like shortness of breath. Patients may also experience angina or syncope; however, dyspnea is often one of the earliest and most prominent symptoms as cardiac output becomes compromised during exertion.
+
+Question 76
+B) Tuberculin skin test (Correct Answer)
+Explanation: The tuberculin skin test (TST) may yield a false positive result in individuals who have received the Bacille Calmette-Guérin (BCG) vaccine. This vaccine, used to prevent tuberculosis (TB), can stimulate an immune response that results in a poALGrawany sitive TST, making it difficult to distinguish betweena true TB infection and the vaccine's effects. As such, healthcare providers often need to interpret TST results cautiously in vaccinated individuals, considering their vaccination history when evaluating for latent TB infection.
+
+Question 77
+A) Peripheral arterial disease (Correct Answer)
+Explanation: The most likely diagnosis for a 60-year-old smoker complaining of calf pain when walking that eases upon resting is peripheral arterial disease (PAD). PAD is characterized by narrowed arteries reducing blood flow to the limbs, leading to claudication, which is pain or cramping in the legs during physical activity. The symptoms typically improve with rest, aligning with the patient's description. Smoking is a significant risk factor for PAD, further supporting this diagnosis.
+
+Question 78
+C) Acute pericarditis (Correct Answer)
+Explanation: For a 45-year-old patient presenting with sharp chest pain that improves when sitting forward and diffuse ST elevation on ECG, the most likely diagnosis is acute pericarditis. This condition often presents with positional chest pain that worsens when lying flat and improves when sitting forward. The diffuse ST elevation on the ECG is also characteristic of acute pericarditis, differentiating it from myocardial infarction, which typically shows localized ST elevation.
+
+Question 79
+B) Intravenous beta-blockers (Correct Answer)
+Explanation: The most effective initial treatment for acute atrial fibrillation with rapid ventricular response is intravenous beta-blockers. These medications help control the heart rate by slowing conduction through the atrioventricular node. While electrical cardioversion may be necessary in unstable patients, beta-blockers are preferred for stable patients as they provide effective rate control and can be administered quickly in an acute setting.
+
+Question 80
+B) High-dose nonsteroidal anti-inflammatory drugs (NSAIDs) (Correct Answer)
+Explanation: The recommended first-line treatment for a patient diagnosed with acute viral pericarditis is high-dose NSAIDs. These medications help reduce inflammation and alleviate pain associated with pericarditis. While corticosteroids may be considered in certain cases, NSAIDs are typically sufficient for managing viral causes of pericarditis and are preferred due to their efficacy and lower risk of complications compared to steroid therapy.
+
+Question 81
+D) Observation and supplemental oxygen (Correct Answer)
+Explanation: The most appropriate initial management for a primary spontaneous pneumothorax in a young, healthy patient with minimal symptoms is observation and supplemental oxygen. In cases where the pneumothorax is small and asymptomatic or minimally symptomatic, conservative management is often effective. Supplemental oxygen can facilitate faster absorption of the air from the pleural space, promoting resolution without invasive procedures.
+
+Question 82
+A) Lobectomy (Correct Answer)
+Explanation: For early-stage non-small cell lung cancer (NSCLC) with no lymph node involvement,lobectomy is typically indicated as it provides a balance between effective cancer removal and preservation of lung function. Lobectomy involves removing an entire lobe of the lung containing the tumor and is considered the standard surgical treatment for early-stage NSCLC due to its effectiveness in reducing recurrence rates compared to more limited resections.
+
+Question 83
+A) Rifampin for 4 months (Correct Answer)
+Explanation: For a patient diagnosed with latent tuberculosis who is allergic to isoniazid, rifampin for 4 months is considered the best alternative medication for treatment. Rifampin is effective in treating latent TB infection and has been shown to have good adherence rates and fewer side effects compared to longer regimens involving isoniazid. This option provides an effective alternative while minimizing potential adverse reactions associated with other treatments.
+
+Question 84
+B) Sessions of 12-16 hours per day (Correct Answer)
+Explanation: In managing ARDS for patients with severe hypoxemia, prone positioning should be implemented in sessions lasting 12-16 hours per day. This approach has been shown to improve oxygenation and reduce mortality by optimizing ventilation-perfusion matching and decreasing lung stress from mechanical ventilation. Extended sessions allow for better recruitment of collapsed alveoli and improved overall lung function.
+
+Question 85
+B) Non-small cell lung cancer (Correct Answer)
+Explanation: Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, accounting for approximately 80-85% of all cases. This category includes subtypes such as adenocarcinoma, squamous cell carcinoma, and large cell carcinoma, all of which tend to grow more slowly than small cell lung cancer (SCLC). Understanding this distinction is crucial for determining treatment options and prognostic outcomes.
+
+Question 86
+C) Aortic stenosis (Correct Answer)
+Explanation: For a 70-year-old male with a history of heart murmur presenting with syncope and a harsh systolic ejection murmur, the most likely diagnosis is aortic stenosis. This condition often leads to left ventricular outflow obstruction resulting in symptoms like syncope during exertion due to decreased cardiac output. The characteristic murmur associated with aortic stenosis further supports this diagnosis.
+
+Question 87
+D) Hyperinflation of the lungs with flattened diaphragms (Correct Answer)
+Explanation: A characteristic feature of emphysema seen on chest X-ray is hyperinflation of the lungs with flattened diaphragms. This occurs due to loss of elastic recoil in emphysema, leading to increased lung volume at rest and flattening of the diaphragm as it adapts to this new position. These radiographic findings are essential in diagnosing emphysema as part of chronic obstructive pulmonary disease (COPD).
+
+Question 88
+D) Less than 200 (Correct Answer)
+Explanation: In ARDS, a PaO2/FiO2 ratio less than 200 mmHg indicates severe disease and serves as akey criterion for diagnosis according to Berlin classification criteria. This ratio reflects significant impairment in gas exchange capabilities within the lungs and correlates with worse clinical outcomes, guiding management strategies for affected patients.
+
+Question 89
+C) Community-acquired pneumonia (Correct Answer)
+Explanation: For a 72-year-old male with COPD presenting with new cough, fever, and right lower lobe infiltrate on chest X-ray after flu-like symptoms, community-acquired pneumonia is the most likely diagnosis. The combination of recent respiratory symptoms along with radiographic findings supports this diagnosis, especially considering his underlying COPD which predisposes him to infections.
+
+Question 90
+A) Cardiac tamponade causes diastolic collapse of the right atrium and ventricle (Correct Answer)
+Explanation: Cardiac tamponade leads to diastolic collapse of cardiac chambers due to increased intrapericardial pressure from fluid accumulation. This condition restricts filling of the heart during diastole, resulting in reduced cardiac output and hemodynamic instability. In contrast, constrictive pericarditis primarily causes filling restrictions without acute collapses seen in tamponade.
+
+Question 91
+C) Subpleural, basal-predominant reticular abnormalities with honeycombing (Correct Answer)
+Explanation: A hallmark finding on high-resolution CT (HRCT) for idiopathic pulmonary fibrosis is subpleural, basal-predominant reticular abnormalities accompanied by honeycombing patterns. These findings are characteristic of usual interstitial pneumonia (UIP), which underlies idiopathic pulmonary fibrosis and indicate advanced fibrotic changes within the lung parenchyma.
+
+Question 92
+B) Low tidal volume ventilation at 6 mL/kg of predicted body weight (Correct Answer)
+Explanation: The ventilatory support strategy involving low tidal volume ventilation at approximately 6 mL/kg of predicted body weight aims to minimize lung injury in ARDS patients. This approach reduces overdistension of alveoli while maintaining adequate ventilation and has been shown to improve outcomes compared to traditional higher tidal volume strategies.
+
+Question 93
+A) Restrictive cardiomyopathy (Correct Answer)
+Explanation: Restrictive cardiomyopathy is typically associated with biatrial enlargement but normal ventricle size on imaging due to impaired filling of both ventricles while maintaining normal systolic function. This condition can lead to increased pressures within both atria as they compensate for reduced ventricular filling capacity.
+
+Question 94
+A) Low-density lipoprotein levels below 100 mg/dL (Correct Answer)
+Explanation: Low-density lipoprotein levels below 100 mg/dL are NOT considered a risk factor for developing acute coronary syndromes; rather, they are generally viewed as protective against cardiovascular disease. Risk factors include elevated LDL levels above this threshold along with other factors like smoking, hypertension, diabetes mellitus, and obesity.
+
+Question 95
+C) Angiotensin-converting enzyme (ACE) inhibitors (Correct Answer) 
+Explanation: Angiotensin-converting enzyme (ACE) inhibitors are typically included as first-line treatment options for hypertension due to their effectiveness in lowering blood pressure by preventing conversion of angiotensin I to angiotensin II—a potent vasoconstrictor—thus promoting vasodilation and reducing blood volume through diuresis
+
+Question 96
+D) Troponin (Correct Answer)
+Explanation: Troponin is recognized as the most reliable diagnostic marker for confirming myocardial infarction within the first few hours after symptom onset due to its high sensitivity and specificity for myocardial injury. Elevated troponin levels indicate damage to cardiac muscle cells and provide critical information regarding ongoing ischemia or infarction.
+
+Question 97
+C) Transesophageal echocardiography (Correct Answer)
+Explanation: Transesophageal echocardiography provides immediate information regarding potential valvular heart disease or vegetations associated with infective endocarditis in patients presenting with low-grade fever, weight loss, and new heart murmurs while awaiting blood culture results. It offers superior imaging quality compared to transthoracic echocardiography for assessing cardiac structures directly.
+
+Question 98
+D) 12-lead electrocardiogram (Correct Answer)
+Explanation: A 12-lead electrocardiogram is essential for confirming the type of arrhythmia in symptomatic patients as it provides comprehensive monitoring of electrical activity across different parts of the heart. It helps identify specific arrhythmias based on characteristic patterns observed on ECG readings.
+
+Question 99
+B) Oral anticoagulation therapy (Correct Answer)
+Explanation: Oral anticoagulation therapy is commonly prescribed to prevent stroke in patients with atrial fibrillation due to its effectiveness in reducing thromboembolic events associated with irregular heart rhythms. Anticoagulants like warfarin or direct oral anticoagulants help mitigate stroke risk by preventing clot formation within the heart chambers.
+
+Question 100
+C) To kill fast-growing cancer cells and reduce tumor size (Correct Answer)
+Explanation: The primary goal of using chemotherapy in managing small cell lung cancer is to kill fastgrowing cancer cells and reduce tumor size effectively. SCLC typically responds well to chemotherap due to its rapid proliferation rate; thus, chemotherapy serves as a critical component in treating this aggressive form of lung cancer
