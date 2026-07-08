@@ -174,7 +174,6 @@ Select the right answer from below:
       // add more questions if you want ...
     ];
 ```
-
 ### 4️⃣ **Running the Quiz**
 Simply open the HTML file in any modern web browser. The quiz will start immediately.
 
@@ -184,9 +183,30 @@ Navigate to the **Question Converter Page**, paste the human-readable format, an
 ![image](https://github.com/user-attachments/assets/5b66c834-8760-46f0-a613-127d752f15b5)
 
 
+### 6️⃣  **You can also use a Python parser by placing two files next to the executable: the first containing the questions, and the second containing the answers.**
+
+> Question format
+```
+ Question 1
+What is typically considered the primary causative agent of Infective Endocarditis in individuals without
+a history of intravenous drug use?
+A) Staphylococcus aureus
+B) Candida species
+C) Streptococcus viridans
+D) Coxiella burnetii
+```
+> Answer format
+```
+Question 1
+C) Streptococcus viridans (Correct Answer)
+Explanation: Streptococcus viridans is typically considered the primary causative agent of Infective Endocarditis in individuals without a history of intravenous drug use. These bacteria are part of the normal oral flora and can enter the bloodstream during dental procedures or daily activities, potentially colonizing damaged heart valves or endocardial surfaces.
+```
+You can specify any filenames, provided you update the filenames in the last line accordingly.
+<img width="602" height="90" alt="image" src="https://github.com/user-attachments/assets/f368c254-03cf-485d-a58f-5979497b1599" />
+
 ---
 
-## Installation (Optional for Local Development)
+## 7️⃣ **Installation (Optional for Local Development)**
 1. Clone the repository:
    ```sh
    git clone https://github.com/Sarus78/Exam-Quiz-Test.git
