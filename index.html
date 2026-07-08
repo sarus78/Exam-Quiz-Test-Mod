@@ -137,10 +137,8 @@
   </div>
 
   <footer>
-    <p style="text-align: center; margin: 20px 0;">Platform made with love by:</p>
-    <p style="text-align: center; margin: 20px 0;">&copy; 2025 Veljko Vuckovic @wljkov</p>
-
-    <p style="text-align: center; margin: 20px 0;">Disclaimer: This quiz platform is provided under the MIT License and is distributed on https://github.com/Refloow/Exam-Quiz-Test. “as is,” without any warranty. While this platform was developed by Veljko Vuckovic, the developer has no control over how it is used, nor any responsibility for the content (questions, answers, or other materials) that users create or share through this platform.</p>
+    <p style="text-align: center; margin: 20px 0;">&copy; Base code 2025 Veljko Vuckovic <a href="https://github.com/Refloow/Exam-Quiz-Test">@wljkov/">&copy; Sarus78</a></p>
+    <p style="text-align: center; margin: 20px 0;">Disclaimer: This quiz platform is provided under the MIT License. Distributed “as is,” without any warranty.</p>
   </footer>
 
   <script>
@@ -159,18 +157,21 @@
         question: "Driving in ______ weather is dangerous due to lack of visibility.",
         options: ["freezing", "foggy", "shiny", "rainy"],
         correctAnswers: [1],
+        "Explanation":"В тумане ничего не видно",
         type: "single"
       },
       {
         question: "Which of the following are fruit?",
         options: ["Carrot", "Apple", "Broccoli", "Strawberry", "Lemon"],
         correctAnswers: [1, 3, 4],
+        "Explanation":" Because Carrot and Broccoli is the vegetables",
         type: "multiple"
       },
       {
         question: "2 + 2 = ?",
         options: ["3", "4", "5", "6"],
         correctAnswers: [1],
+        "Explanation":"Простые числа — это натуральные числа больше единицы, которые делятся без остатка только на единицу и на самих себя"
         type: "single"
       },
       {
@@ -350,36 +351,48 @@
   /******************************************************
    * 8) SHOW FEEDBACK
    ******************************************************/
-  function showFeedback(status, question, fraction) {
-    feedbackEl.style.display = 'block';
+ \ function showFeedback(status, question, fraction) {
+  feedbackEl.style.display = 'block';
 
-    // For the "correct answers" portion, we might just show them as text:
-    const escapeHTML = (str) =>
-      str.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  // For the "correct answers" portion, we might just show them as text:
+  const escapeHTML = (str) => str.replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-    // Build correct answer string
-    const correctAnswersText = question.correctAnswers
-      .map(idx => escapeHTML(question.options[idx]))
-      .join(', ');
+  // Build correct answer string
+  const correctAnswersText = question.correctAnswers
+    .map(idx => escapeHTML(question.options[idx]))
+    .join(', ');
 
-    if (status === 'correct') {
-      feedbackEl.classList.add('correct');
-      feedbackEl.innerHTML = 'Correct!';
-    } else if (status === 'partial') {
-      feedbackEl.classList.add('partial');
-      const percent = (fraction * 100).toFixed(0);
-      feedbackEl.innerHTML = `Partially correct (${percent}%).<br/>
-        Correct answers: ${correctAnswersText}`;
-    } else {
-      feedbackEl.classList.add('incorrect');
-      feedbackEl.innerHTML = `Incorrect!<br/>
-        Correct answers: ${correctAnswersText}`;
-    }
-
-    // Hide check button, show next
-    checkBtn.classList.add('hidden');
-    nextBtn.classList.remove('hidden');
+  let baseText = '';
+  if (status === 'correct') {
+    feedbackEl.className = 'feedback correct';
+    baseText = 'Correct!';
+  } else if (status === 'partial') {
+    feedbackEl.className = 'feedback partial';
+    const percent = (fraction * 100).toFixed(0);
+    baseText = `Partially correct (${percent}%).<br/> Correct answers: ${correctAnswersText}`;
+  } else {
+    feedbackEl.className = 'feedback incorrect';
+    baseText = `Incorrect!<br/> Correct answers: ${correctAnswersText}`;
   }
+
+  // Проверяем наличие блока объяснения
+  if (question.Explanation && question.Explanation.trim() !== '') {
+    // Безопасно форматируем текст с учетом переносов строк и кода
+    const formattedExplanation = formatTextForHTML(question.Explanation);
+    
+    // Склеиваем результат и верстку блока объяснения
+    feedbackEl.innerHTML = `${baseText}
+      <div class="quiz-explanation" style="margin-top: 15px; padding-top: 10px; border-top: 1px dashed #ccc; font-style: italic;">
+        <strong>Explanation:</strong> ${formattedExplanation}
+      </div>`;
+  } else {
+    feedbackEl.innerHTML = baseText;
+  }
+
+  // Hide check button, show next
+  checkBtn.classList.add('hidden');
+  nextBtn.classList.remove('hidden');
+}
 
   /******************************************************
    * 9) NEXT QUESTION
@@ -435,9 +448,6 @@
     /*
     
     MIT License
-
-Copyright (c) 2025 Veljko Vuckovic (refloow.com)
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
