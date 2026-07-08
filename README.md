@@ -5,10 +5,6 @@ A lightweight, browser-based quiz platform that allows users to create and custo
 
 ![image](https://github.com/user-attachments/assets/3ddddb5a-9f9b-4915-a84b-52cb98bbfdd7)
 
-# DISCORD Server:
-On the server anyone can feel free to ask questions, engage in the comunity and discover other free open source software i build 
-**https://discord.gg/4enDY8yhuS**
-
 ## Features
 
 ✅ **Customizable Questions & Timer**
@@ -193,7 +189,7 @@ Navigate to the **Question Converter Page**, paste the human-readable format, an
 ## Installation (Optional for Local Development)
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Refloow/Exam-Quiz-Test.git
+   git clone https://github.com/Sarus78/Exam-Quiz-Test.git
    ```
 2. Open `index.html` in your browser.
 
@@ -201,10 +197,3 @@ Navigate to the **Question Converter Page**, paste the human-readable format, an
 ## License
 
 This project is **open-source** under the **MIT License**. Feel free to use, modify, and distribute it!
-
-
-## Contributing
-We welcome contributions! Feel free to submit pull requests or report issues.
-
-
-Enjoy building your quizzes! 🚀
